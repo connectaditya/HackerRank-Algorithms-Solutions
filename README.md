@@ -3,8 +3,7 @@
 All HackerRank Algorithms Solutions Here in Single Post, Directly copy-paste these codes into the HackerRank terminal and you are good to go.
 One more thing to add, don’t straight away look for the solutions, first try to solve the problems by yourself. If you find any difficulty after trying several times, then look for the solutions. We are going to solve the HackerRank Algorithms problems using C, CPP, JAVA, PYTHON, JavaScript, Pascal & SCALA Programming Languages.
 
-<h2>HackerRank Algorithms Solutions</h2>
-
+<a href="https://www.chase2learn.com/hackerrank-algorithms-solutions/">HackerRank Algorithms Solutions</a>
 Warmup
 <ol><li><a href="https://www.chase2learn.com/hackerrank-solve-me-first-problem-solution/">HackerRank Solve Me First problem solution</a></li><li><a href="https://www.chase2learn.com/hackerrank-simple-array-sum-solution/">HackerRank Simple Array Sum solution</a></li><li><a href="https://www.chase2learn.com/hackerrank-compare-the-triplets-solution/">HackerRank Compare The Triplets solution</a></li><li><a href="https://www.chase2learn.com/hackerrank-a-very-big-sum-solution/">HackerRank A Very Big Sum solution</a></li><li><a href="https://www.chase2learn.com/hackerrank-diagonal-difference-solution/">HackerRank Diagonal Difference Solution</a></li><li><a href="https://www.chase2learn.com/hackerrank-plus-minus-solution/">HackerRank Plus Minus Solution</a></li><li><a href="https://www.chase2learn.com/hackerrank-staircase-solution/">HackerRank Staircase Solution</a></li><li><a href="https://www.chase2learn.com/hackerrank-mini-max-sum-solution/">HackerRank Mini Max Sum Solution</a></li><li><a href="https://www.chase2learn.com/hackerrank-birthday-cake-candles-solution/">HackerRank Birthday Cake Candles Solution</a></li><li><a href="https://www.chase2learn.com/hackerrank-time-conversion-solution/">HackerRank Time Conversion Solution</a></li></ol>
 
